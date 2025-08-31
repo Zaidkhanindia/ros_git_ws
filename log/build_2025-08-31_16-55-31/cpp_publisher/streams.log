@@ -1,0 +1,22 @@
+[0.012s] Invoking command in '/home/zaid-khan/ros_git_ws/build/cpp_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zaid-khan/Practice_ws/install/python_publisher:/home/zaid-khan/ros_git_ws/install/my_robo_controller:/home/zaid-khan/ros_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/zaid-khan/ros_git_ws/build/cpp_publisher -- -j8 -l8
+[0.069s] [100%] Built target publish
+[0.191s] Invoked command in '/home/zaid-khan/ros_git_ws/build/cpp_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zaid-khan/Practice_ws/install/python_publisher:/home/zaid-khan/ros_git_ws/install/my_robo_controller:/home/zaid-khan/ros_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/zaid-khan/ros_git_ws/build/cpp_publisher -- -j8 -l8
+[0.200s] Invoking command in '/home/zaid-khan/ros_git_ws/build/cpp_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zaid-khan/Practice_ws/install/python_publisher:/home/zaid-khan/ros_git_ws/install/my_robo_controller:/home/zaid-khan/ros_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/zaid-khan/ros_git_ws/build/cpp_publisher
+[0.208s] -- Install configuration: ""
+[0.208s] -- Up-to-date: /home/zaid-khan/ros_git_ws/install/cpp_publisher/lib/cpp_publisher/publish
+[0.208s] -- Up-to-date: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/ament_index/resource_index/package_run_dependencies/cpp_publisher
+[0.208s] -- Up-to-date: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/ament_index/resource_index/parent_prefix_path/cpp_publisher
+[0.208s] -- Up-to-date: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/environment/ament_prefix_path.sh
+[0.208s] -- Up-to-date: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/environment/ament_prefix_path.dsv
+[0.209s] -- Up-to-date: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/environment/path.sh
+[0.209s] -- Up-to-date: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/environment/path.dsv
+[0.209s] -- Up-to-date: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/local_setup.bash
+[0.209s] -- Up-to-date: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/local_setup.sh
+[0.209s] -- Up-to-date: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/local_setup.zsh
+[0.209s] -- Up-to-date: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/local_setup.dsv
+[0.209s] -- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/package.dsv
+[0.209s] -- Up-to-date: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/ament_index/resource_index/packages/cpp_publisher
+[0.209s] -- Up-to-date: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/cmake/cpp_publisherConfig.cmake
+[0.209s] -- Up-to-date: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/cmake/cpp_publisherConfig-version.cmake
+[0.209s] -- Up-to-date: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/package.xml
+[0.211s] Invoked command in '/home/zaid-khan/ros_git_ws/build/cpp_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zaid-khan/Practice_ws/install/python_publisher:/home/zaid-khan/ros_git_ws/install/my_robo_controller:/home/zaid-khan/ros_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/zaid-khan/ros_git_ws/build/cpp_publisher
