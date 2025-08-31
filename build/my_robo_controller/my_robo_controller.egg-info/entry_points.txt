@@ -1,0 +1,5 @@
+[console_scripts]
+first_node = my_robo_controller.my_first_node:zaid
+loop_node = my_robo_controller.Loop_Node:main
+publisher_node = my_robo_controller.Circle_Publisher_Node:main
+subscriber_node = my_robo_controller.Position_Subscriber_Node:main

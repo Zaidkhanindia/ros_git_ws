@@ -1,0 +1,47 @@
+running egg_info
+creating ../../build/my_robo_controller/my_robo_controller.egg-info
+writing ../../build/my_robo_controller/my_robo_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_robo_controller/my_robo_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/my_robo_controller/my_robo_controller.egg-info/entry_points.txt
+writing requirements to ../../build/my_robo_controller/my_robo_controller.egg-info/requires.txt
+writing top-level names to ../../build/my_robo_controller/my_robo_controller.egg-info/top_level.txt
+writing manifest file '../../build/my_robo_controller/my_robo_controller.egg-info/SOURCES.txt'
+reading manifest file '../../build/my_robo_controller/my_robo_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_robo_controller/my_robo_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/zaid-khan/ros_git_ws/build/my_robo_controller/build
+creating /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib
+creating /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller
+copying my_robo_controller/__init__.py -> /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller
+copying my_robo_controller/Circle_Publisher_Node.py -> /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller
+copying my_robo_controller/Position_Subscriber_Node.py -> /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller
+copying my_robo_controller/my_first_node.py -> /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller
+copying my_robo_controller/Loop_Node.py -> /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller
+running install
+running install_lib
+creating /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller
+copying /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller/__init__.py -> /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller
+copying /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller/Circle_Publisher_Node.py -> /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller
+copying /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller/Position_Subscriber_Node.py -> /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller
+copying /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller/my_first_node.py -> /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller
+copying /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller/Loop_Node.py -> /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller
+byte-compiling /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller/Circle_Publisher_Node.py to Circle_Publisher_Node.cpython-312.pyc
+byte-compiling /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller/Position_Subscriber_Node.py to Position_Subscriber_Node.cpython-312.pyc
+byte-compiling /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller/my_first_node.py to my_first_node.cpython-312.pyc
+byte-compiling /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller/Loop_Node.py to Loop_Node.cpython-312.pyc
+running install_data
+creating /home/zaid-khan/ros_git_ws/install/my_robo_controller/share/ament_index
+creating /home/zaid-khan/ros_git_ws/install/my_robo_controller/share/ament_index/resource_index
+creating /home/zaid-khan/ros_git_ws/install/my_robo_controller/share/ament_index/resource_index/packages
+copying resource/my_robo_controller -> /home/zaid-khan/ros_git_ws/install/my_robo_controller/share/ament_index/resource_index/packages
+copying package.xml -> /home/zaid-khan/ros_git_ws/install/my_robo_controller/share/my_robo_controller
+running install_egg_info
+Copying ../../build/my_robo_controller/my_robo_controller.egg-info to /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller-0.0.0-py3.12.egg-info
+running install_scripts
+Installing first_node script to /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/my_robo_controller
+Installing loop_node script to /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/my_robo_controller
+Installing publisher_node script to /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/my_robo_controller
+Installing subscriber_node script to /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/my_robo_controller
+writing list of installed files to '/home/zaid-khan/ros_git_ws/build/my_robo_controller/install.log'

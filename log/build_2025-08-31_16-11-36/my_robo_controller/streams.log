@@ -1,0 +1,49 @@
+[0.886s] Invoking command in '/home/zaid-khan/ros_git_ws/src/my_robo_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/zaid-khan/ros_git_ws/build/my_robo_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robo_controller build --build-base /home/zaid-khan/ros_git_ws/build/my_robo_controller/build install --record /home/zaid-khan/ros_git_ws/build/my_robo_controller/install.log --single-version-externally-managed install_data
+[1.108s] running egg_info
+[1.108s] creating ../../build/my_robo_controller/my_robo_controller.egg-info
+[1.124s] writing ../../build/my_robo_controller/my_robo_controller.egg-info/PKG-INFO
+[1.124s] writing dependency_links to ../../build/my_robo_controller/my_robo_controller.egg-info/dependency_links.txt
+[1.124s] writing entry points to ../../build/my_robo_controller/my_robo_controller.egg-info/entry_points.txt
+[1.125s] writing requirements to ../../build/my_robo_controller/my_robo_controller.egg-info/requires.txt
+[1.125s] writing top-level names to ../../build/my_robo_controller/my_robo_controller.egg-info/top_level.txt
+[1.125s] writing manifest file '../../build/my_robo_controller/my_robo_controller.egg-info/SOURCES.txt'
+[1.158s] reading manifest file '../../build/my_robo_controller/my_robo_controller.egg-info/SOURCES.txt'
+[1.158s] writing manifest file '../../build/my_robo_controller/my_robo_controller.egg-info/SOURCES.txt'
+[1.158s] running build
+[1.158s] running build_py
+[1.158s] creating /home/zaid-khan/ros_git_ws/build/my_robo_controller/build
+[1.158s] creating /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib
+[1.159s] creating /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller
+[1.159s] copying my_robo_controller/__init__.py -> /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller
+[1.159s] copying my_robo_controller/Circle_Publisher_Node.py -> /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller
+[1.159s] copying my_robo_controller/Position_Subscriber_Node.py -> /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller
+[1.159s] copying my_robo_controller/my_first_node.py -> /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller
+[1.159s] copying my_robo_controller/Loop_Node.py -> /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller
+[1.160s] running install
+[1.165s] running install_lib
+[1.182s] creating /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller
+[1.182s] copying /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller/__init__.py -> /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller
+[1.182s] copying /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller/Circle_Publisher_Node.py -> /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller
+[1.182s] copying /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller/Position_Subscriber_Node.py -> /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller
+[1.182s] copying /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller/my_first_node.py -> /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller
+[1.183s] copying /home/zaid-khan/ros_git_ws/build/my_robo_controller/build/lib/my_robo_controller/Loop_Node.py -> /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller
+[1.183s] byte-compiling /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller/__init__.py to __init__.cpython-312.pyc
+[1.183s] byte-compiling /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller/Circle_Publisher_Node.py to Circle_Publisher_Node.cpython-312.pyc
+[1.183s] byte-compiling /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller/Position_Subscriber_Node.py to Position_Subscriber_Node.cpython-312.pyc
+[1.183s] byte-compiling /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller/my_first_node.py to my_first_node.cpython-312.pyc
+[1.184s] byte-compiling /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller/Loop_Node.py to Loop_Node.cpython-312.pyc
+[1.184s] running install_data
+[1.184s] creating /home/zaid-khan/ros_git_ws/install/my_robo_controller/share/ament_index
+[1.185s] creating /home/zaid-khan/ros_git_ws/install/my_robo_controller/share/ament_index/resource_index
+[1.185s] creating /home/zaid-khan/ros_git_ws/install/my_robo_controller/share/ament_index/resource_index/packages
+[1.185s] copying resource/my_robo_controller -> /home/zaid-khan/ros_git_ws/install/my_robo_controller/share/ament_index/resource_index/packages
+[1.185s] copying package.xml -> /home/zaid-khan/ros_git_ws/install/my_robo_controller/share/my_robo_controller
+[1.185s] running install_egg_info
+[1.203s] Copying ../../build/my_robo_controller/my_robo_controller.egg-info to /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages/my_robo_controller-0.0.0-py3.12.egg-info
+[1.204s] running install_scripts
+[1.317s] Installing first_node script to /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/my_robo_controller
+[1.317s] Installing loop_node script to /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/my_robo_controller
+[1.317s] Installing publisher_node script to /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/my_robo_controller
+[1.317s] Installing subscriber_node script to /home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/my_robo_controller
+[1.317s] writing list of installed files to '/home/zaid-khan/ros_git_ws/build/my_robo_controller/install.log'
+[1.346s] Invoked command in '/home/zaid-khan/ros_git_ws/src/my_robo_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/zaid-khan/ros_git_ws/build/my_robo_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zaid-khan/ros_git_ws/install/my_robo_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robo_controller build --build-base /home/zaid-khan/ros_git_ws/build/my_robo_controller/build install --record /home/zaid-khan/ros_git_ws/build/my_robo_controller/install.log --single-version-externally-managed install_data

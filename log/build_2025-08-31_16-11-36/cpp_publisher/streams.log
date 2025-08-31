@@ -1,0 +1,55 @@
+[0.013s] Invoking command in '/home/zaid-khan/ros_git_ws/build/cpp_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zaid-khan/ros_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/zaid-khan/ros_git_ws/src/cpp_publisher -DCMAKE_INSTALL_PREFIX=/home/zaid-khan/ros_git_ws/install/cpp_publisher
+[0.121s] -- The C compiler identification is GNU 13.3.0
+[0.201s] -- The CXX compiler identification is GNU 13.3.0
+[0.221s] -- Detecting C compiler ABI info
+[0.307s] -- Detecting C compiler ABI info - done
+[0.315s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.315s] -- Detecting C compile features
+[0.316s] -- Detecting C compile features - done
+[0.325s] -- Detecting CXX compiler ABI info
+[0.436s] -- Detecting CXX compiler ABI info - done
+[0.445s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.445s] -- Detecting CXX compile features
+[0.445s] -- Detecting CXX compile features - done
+[0.463s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.607s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.720s] -- Found rclcpp: 28.1.11 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.767s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.782s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.802s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.823s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.907s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.912s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.000s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[1.019s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[1.041s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.119s] -- Found std_msgs: 5.3.6 (/opt/ros/jazzy/share/std_msgs/cmake)
+[1.214s] -- Configuring done (1.2s)
+[1.223s] -- Generating done (0.0s)
+[1.226s] -- Build files have been written to: /home/zaid-khan/ros_git_ws/build/cpp_publisher
+[1.237s] Invoked command in '/home/zaid-khan/ros_git_ws/build/cpp_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zaid-khan/ros_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/zaid-khan/ros_git_ws/src/cpp_publisher -DCMAKE_INSTALL_PREFIX=/home/zaid-khan/ros_git_ws/install/cpp_publisher
+[1.239s] Invoking command in '/home/zaid-khan/ros_git_ws/build/cpp_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zaid-khan/ros_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/zaid-khan/ros_git_ws/build/cpp_publisher -- -j8 -l8
+[1.283s] [ 50%] [32mBuilding CXX object CMakeFiles/publish.dir/src/publisher.cpp.o[0m
+[3.765s] [100%] [32m[1mLinking CXX executable publish[0m
+[3.904s] [100%] Built target publish
+[3.915s] Invoked command in '/home/zaid-khan/ros_git_ws/build/cpp_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zaid-khan/ros_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/zaid-khan/ros_git_ws/build/cpp_publisher -- -j8 -l8
+[3.925s] Invoking command in '/home/zaid-khan/ros_git_ws/build/cpp_publisher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zaid-khan/ros_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/zaid-khan/ros_git_ws/build/cpp_publisher
+[3.932s] -- Install configuration: ""
+[3.932s] -- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/lib/cpp_publisher/publish
+[3.933s] -- Set non-toolchain portion of runtime path of "/home/zaid-khan/ros_git_ws/install/cpp_publisher/lib/cpp_publisher/publish" to ""
+[3.933s] -- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/ament_index/resource_index/package_run_dependencies/cpp_publisher
+[3.933s] -- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/ament_index/resource_index/parent_prefix_path/cpp_publisher
+[3.933s] -- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/environment/ament_prefix_path.sh
+[3.933s] -- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/environment/ament_prefix_path.dsv
+[3.933s] -- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/environment/path.sh
+[3.934s] -- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/environment/path.dsv
+[3.934s] -- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/local_setup.bash
+[3.934s] -- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/local_setup.sh
+[3.934s] -- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/local_setup.zsh
+[3.934s] -- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/local_setup.dsv
+[3.935s] -- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/package.dsv
+[3.935s] -- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/ament_index/resource_index/packages/cpp_publisher
+[3.935s] -- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/cmake/cpp_publisherConfig.cmake
+[3.935s] -- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/cmake/cpp_publisherConfig-version.cmake
+[3.935s] -- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/package.xml
+[3.938s] Invoked command in '/home/zaid-khan/ros_git_ws/build/cpp_publisher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zaid-khan/ros_ws/install/py_pubsub:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/zaid-khan/ros_git_ws/build/cpp_publisher

@@ -1,0 +1,49 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Found rclcpp: 28.1.11 (/opt/ros/jazzy/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+-- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found std_msgs: 5.3.6 (/opt/ros/jazzy/share/std_msgs/cmake)
+-- Configuring done (1.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/zaid-khan/ros_git_ws/build/cpp_publisher
+[ 50%] [32mBuilding CXX object CMakeFiles/publish.dir/src/publisher.cpp.o[0m
+[100%] [32m[1mLinking CXX executable publish[0m
+[100%] Built target publish
+-- Install configuration: ""
+-- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/lib/cpp_publisher/publish
+-- Set non-toolchain portion of runtime path of "/home/zaid-khan/ros_git_ws/install/cpp_publisher/lib/cpp_publisher/publish" to ""
+-- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/ament_index/resource_index/package_run_dependencies/cpp_publisher
+-- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/ament_index/resource_index/parent_prefix_path/cpp_publisher
+-- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/environment/ament_prefix_path.sh
+-- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/environment/ament_prefix_path.dsv
+-- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/environment/path.sh
+-- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/environment/path.dsv
+-- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/local_setup.bash
+-- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/local_setup.sh
+-- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/local_setup.zsh
+-- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/local_setup.dsv
+-- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/package.dsv
+-- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/ament_index/resource_index/packages/cpp_publisher
+-- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/cmake/cpp_publisherConfig.cmake
+-- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/cmake/cpp_publisherConfig-version.cmake
+-- Installing: /home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/package.xml

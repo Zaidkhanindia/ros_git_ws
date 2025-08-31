@@ -1,0 +1,16 @@
+/home/zaid-khan/ros_git_ws/install/cpp_publisher/lib/cpp_publisher/publish
+/home/zaid-khan/ros_git_ws/install/cpp_publisher/share/ament_index/resource_index/package_run_dependencies/cpp_publisher
+/home/zaid-khan/ros_git_ws/install/cpp_publisher/share/ament_index/resource_index/parent_prefix_path/cpp_publisher
+/home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/environment/ament_prefix_path.sh
+/home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/environment/ament_prefix_path.dsv
+/home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/environment/path.sh
+/home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/environment/path.dsv
+/home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/local_setup.bash
+/home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/local_setup.sh
+/home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/local_setup.zsh
+/home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/local_setup.dsv
+/home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/package.dsv
+/home/zaid-khan/ros_git_ws/install/cpp_publisher/share/ament_index/resource_index/packages/cpp_publisher
+/home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/cmake/cpp_publisherConfig.cmake
+/home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/cmake/cpp_publisherConfig-version.cmake
+/home/zaid-khan/ros_git_ws/install/cpp_publisher/share/cpp_publisher/package.xml
